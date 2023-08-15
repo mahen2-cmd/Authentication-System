@@ -32,11 +32,13 @@ Before you begin, ensure you have met the following requirements:
 
 3. Install dependencies
 
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
    1. Run the Flask app:
-   
-   Copy code
-   python app.py
-   2. Access the app in your web browser at **http://localhost:5000**.
+
+      ```bash
+      python app.py
+      
+   3. Access the app in your web browser at **http://localhost:5000**.
