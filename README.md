@@ -42,3 +42,12 @@ Before you begin, ensure you have met the following requirements:
       python app.py
       
    3. Access the app in your web browser at **http://localhost:5000**.
+
+## Routes
+
+- `/`: Home page
+- `/register`: User registration page
+- `/login`: User login page
+- `/dashboard/<name>`: Personalized dashboard for the logged-in user
+- `/logout`: Log out the user
+
