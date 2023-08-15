@@ -27,18 +27,16 @@ Before you begin, ensure you have met the following requirements:
 
 2. Set up your environment variables:
 
-Create a `.env` file in the project directory and set your `SECRET_KEY`:
-
-
-SECRET_KEY=your-secret-key
+   Create a `.env` file in the project directory and set your `SECRET_KEY`:
+   SECRET_KEY=your-secret-key
 
 3. Install dependencies
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-##Usage
-Run the Flask app:
-
-Copy code
-python app.py
-Access the app in your web browser at http://localhost:5000.
+## Usage
+   1. Run the Flask app:
+   
+   Copy code
+   python app.py
+   2. Access the app in your web browser at **http://localhost:5000**.
